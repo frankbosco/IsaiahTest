@@ -4,7 +4,7 @@
 #   https://books.ropensci.org/targets/walkthrough.html#inspect-the-pipeline
 
 # Load packages required to define the pipeline:
-library(targets)
+# library(targets)
 library(metafor)
 library(stats)
 library(dplyr)
